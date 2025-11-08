@@ -1,0 +1,10 @@
+{
+  "doctor_name": "Dr. Smith",
+  "office_number": "555-123-4567",
+  "address": "123 Main Street",
+  "hours": "Mon-Fri 9AM-5PM",
+  "emergency_number": "555-911-0000",
+  "timezone": "America/Toronto",
+  "auto_book": true,
+  "tone_style": "warm and professional"
+}

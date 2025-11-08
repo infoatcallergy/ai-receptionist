@@ -1,0 +1,141 @@
+User: Hi, can I book a cleaning?
+AI: Of course! I’d be happy to help you schedule a cleaning appointment. Could you please provide me with your name and a preferred date and time for your visit?
+
+User: Can I book a cleaning?
+AI: Sure! What day and time work best for you? You can also use our online booking link: https://calendly.com/callergy-info
+
+User: Can I book a cleaning?
+AI: We have openings at Tuesday 09:00 AM, Tuesday 09:30 AM, Tuesday 10:00 AM. Which works best for you?
+
+User: Can I book a cleaning?
+AI: We have openings at Wednesday 09:00 AM, Wednesday 09:30 AM, Wednesday 10:00 AM, Wednesday 10:30 AM, Wednesday 11:00 AM. Which works best for you?
+
+User: Wednesday at 9:30 works.
+AI: Something went wrong while booking — please try again or use the online link.
+
+User: Can I book a cleaning?
+AI: We have openings at Wednesday 09:00 AM, Wednesday 09:30 AM, Wednesday 10:00 AM, Wednesday 10:30 AM, Wednesday 11:00 AM. Which works best for you?
+
+User: Wednesday at 9:30 works.
+AI: Something went wrong while booking — please try again or use the online link.
+
+User: Can I book a cleaning?
+AI: We have openings at Wednesday 09:00 AM, Wednesday 09:30 AM, Wednesday 10:00 AM, Wednesday 10:30 AM, Wednesday 11:00 AM. Which works best for you?
+
+User: Wednesday at 9:30 works
+AI: Something went wrong while booking — please try again or use the online link.
+
+User: Can I book a cleaning?
+AI: We have openings at Wednesday 09:00 AM, Wednesday 09:30 AM, Wednesday 10:00 AM, Wednesday 10:30 AM, Wednesday 11:00 AM. Which works best for you?
+
+User: Wednesday at 9:30 works
+AI: ✅ Perfect — here’s your confirmation link: https://calendly.com/d/cwg2-snp-yd4/30-minute-meeting
+
+User: Can I book a cleaning?
+AI: ✅ You're booked! Here's your confirmation link: https://calendly.com/d/cs9x-5v7-xwt/30-minute-meeting
+Detected Intent: book
+
+User: No, I want to book a new appointment
+AI: ✅ You're booked! Here's your confirmation link: https://calendly.com/d/cw7b-wk7-h67/30-minute-meeting
+Detected Intent: book
+
+User: Can I cancel my appointment?
+AI: ✅ You're booked! Here's your confirmation link: https://calendly.com/d/csq8-z5g-ktd/30-minute-meeting
+Detected Intent: book
+
+User: What are your hours?
+AI: Our hours are Mon-Fri 9AM-5PM. Would you like me to help you book a time?
+Detected Intent: hours
+
+User: Can I book a cleaning?
+AI: ✅ You're booked! Here's your confirmation link: https://calendly.com/d/cwfp-src-tjj/30-minute-meeting
+Detected Intent: book
+
+User: It's an emergency
+AI: This sounds urgent. Please call our emergency line at 555-911-0000 immediately.
+Detected Intent: emergency
+
+User: Can I book a cleaning?
+AI: ✅ You're booked! Here's your confirmation link: https://calendly.com/d/cs9x-d7t-w6c/30-minute-meeting
+Detected Intent: book
+
+User: Can I cancel my appointment?
+AI: Got it. Please confirm your name and the date you'd like to cancel.
+Detected Intent: cancel
+
+User: What are your hours?
+AI: Our hours are Mon-Fri 9AM-5PM. Would you like me to help you book a time?
+Detected Intent: hours
+
+User: It's an emergency
+AI: This sounds urgent. Please call our emergency line at 555-911-0000 immediately.
+Detected Intent: emergency
+
+User: Thank you
+AI: You're very welcome! Happy to help.
+Detected Intent: gratitude
+
+User (13435756312): Can I book a cleaning?
+AI: Sure! What day and time work best for you? (Available: Friday 09:00 AM, Friday 09:30 AM, Friday 10:00 AM)
+Intent: book
+
+User (13435756312): Friday at 9 AM works
+AI: ✅ Great! You’re booked for Cleaning. Here’s your confirmation link: https://calendly.com/d/cxb5-zfy-7cr/30-minute-meeting
+Intent: unknown
+
+User (13435756312): Can I cancel my appointments?
+AI: Your appointment has been cancelled. Hope to see you soon!
+Intent: cancel
+
+User (13435756312): It's an emergency
+AI: This sounds urgent. Please call our emergency line at 555-911-0000 immediately.
+Intent: emergency
+
+User (13435756312): Thank you
+AI: You're very welcome! Happy to help.
+Intent: gratitude
+
+13435756312: Can I book a cleaning?
+AI: Sure! What’s the reason for your visit — cleaning, pain, or check-up?
+Intent: book
+
+13435756312: A check up
+AI: Got it — Checkup. What day and time work best for you? (Available: Friday 09:00 AM, Friday 09:30 AM, Friday 10:00 AM)
+Intent: unknown
+
+13435756312: Friday at 9:30
+AI: ✅ Great! You’re booked for Checkup. Here’s your confirmation link: https://calendly.com/d/cxc7-pz3-pqr/30-minute-meeting
+Intent: unknown
+
+13435756312: Cancel my appointments
+AI: Your appointment has been cancelled. Hope to see you soon!
+Intent: cancel
+
+13435756312: Thank you
+AI: You’re very welcome! Happy to help.
+Intent: gratitude
+
+13435756312: Can I book a cleaning?
+AI: Sure! What’s the reason for your visit — cleaning, pain, or check-up?
+Intent: book
+
+13435756312: I want a cleaning. I feel like my teeth are so dirty.
+AI: Sure! What’s the reason for your visit — cleaning, pain, or check-up?
+Intent: book
+
+13435756312: Cleaning
+AI: Sure! What’s the reason for your visit — cleaning, pain, or check-up?
+Intent: book
+
+13435756312: Check up
+AI: Got it — Checkup. What day and time work best for you? (Available: Monday 09:00 AM, Monday 09:30 AM, Monday 10:00 AM)
+Intent: unknown
+
+13435756312: I want Monday at 9:30
+AI: ✅ Great! You’re booked for Checkup. Here’s your confirmation link: https://calendly.com/d/ctgy-mwz-njm/30-minute-meeting
+Intent: unknown
+
+13435756312: I want Monday at 9:30
+AI: I'd be happy to help you schedule your appointment! Could you please provide me with your name and any specific details regarding your visit, such as the type of appointment you need?
+Intent: unknown
+
